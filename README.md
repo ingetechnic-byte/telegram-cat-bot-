@@ -1,1 +1,1 @@
-Bot for genegating cats
+Bot for generating cats
